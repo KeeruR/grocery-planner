@@ -103,15 +103,17 @@ body {
 #refreshList {
   width: 32px;
   height: 32px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
   background-color: #e74c3c;
-  color: #fff;
+  color: white;
   border: none;
   border-radius: 5px;
   cursor: pointer;
-  font-size: 16px; /* keep text readable */
-  line-height: 1;
+  font-size: 16px;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 0; /* removes default extra space */
+  padding: 0;
 }
