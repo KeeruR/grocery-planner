@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+    background: #f9f9f9;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+  }
+  
+  .container {
+    background: white;
+    padding: 20px;
+    border-radius: 12px;
+    width: 300px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  }
+  
+  input {
+    width: 70%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+  }
+  
+  button {
+    padding: 10px;
+    margin-left: 5px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 20px;
+  }
+  
+  li {
+    padding: 8px 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  li.checked {
+    text-decoration: line-through;
+    color: #aaa;
+  }
+  
