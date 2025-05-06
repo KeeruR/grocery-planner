@@ -47,3 +47,14 @@ body {
     text-decoration: line-through;
     color: #aaa;
   }
+
+
+#refreshList {
+  padding: 4px 8px;        
+  font-size: 14px;          
+  background-color: #ff6666;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
