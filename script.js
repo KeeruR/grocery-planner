@@ -42,3 +42,15 @@ document.getElementById("refreshList").addEventListener("click", function () {
 });
 
     renderList();
+
+
+
+window.onload = function () {
+  document.getElementById("refreshList").addEventListener("click", function () {
+    if (confirm("Are you sure you want to clear your grocery list?")) {
+      localStorage.removeItem("groceryList");
+      document.getElementById("grocery-list").innerHTML = "";
+      alert("Grocery list cleared!");
+    }
+  });
+};
