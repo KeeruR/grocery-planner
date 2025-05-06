@@ -6,6 +6,7 @@ A simple, interactive grocery list web app built with HTML, CSS, and JavaScript.
 - Add items to your grocery list
 - Mark items as completed
 - Automatically saves your list using local storage
+- Can refresh list to make a list
 - Fully responsive and mobile-friendly
 
 ## Live Demo
