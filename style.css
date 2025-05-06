@@ -47,17 +47,3 @@ body {
     text-decoration: line-through;
     color: #aaa;
   }
-
-#refreshList {
-  margin-top: 15px;
-  padding: 8px 16px;
-  background-color: #ff6666;
-  color: white;
-  border: none;
-  border-radius: 6px;
-  cursor: pointer;
-}
-
-#refreshList:hover {
-  background-color: #e65c5c;
-}
