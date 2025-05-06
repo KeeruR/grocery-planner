@@ -53,16 +53,17 @@ body {
   margin-top: 10px;
   padding: 6px 12px;
   font-size: 14px;
-  background-color: #e74c3c; 
+  background-color: #86abdd; 
   color: #fff;
   border: none;
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.2s;
+  max-height: 3rem
 }
 
 #refreshList:hover {
-  background-color: #c0392b;
+  background-color: #7b9ee9;
 }
 
 
