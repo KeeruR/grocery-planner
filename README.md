@@ -9,7 +9,7 @@ A simple, interactive grocery list web app built with HTML, CSS, and JavaScript.
 - Fully responsive and mobile-friendly
 
 ## Live Demo
-[Click here to try it!](https://yourusername.github.io/grocery-planner)
+[Click here to try it!](https://keerur.github.io/grocery-planner/)
 
 ## 📁 Files in This Project
 - `index.html` — Main webpage
