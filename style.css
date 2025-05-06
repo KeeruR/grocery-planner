@@ -53,7 +53,7 @@ refreshList {
   margin-top: 10px;
   padding: 6px 12px;
   font-size: 14px;
-  background-color: #e74c3c; 
+  background-color: #1c9c5a; 
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -62,6 +62,6 @@ refreshList {
 }
 
 refreshList:hover {
-  background-color: #c0392b;
+  background-color: #14693d;
 }
 
