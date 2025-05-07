@@ -21,15 +21,15 @@ body {
     border-radius: 6px;
   }
   
-  button {
-    padding: 10px;
-    margin-left: 5px;
-    background-color: #4CAF50;
-    color: white;
-    border: none;
-    border-radius: 6px;
-    cursor: pointer;
-  }
+button {
+  padding: 10px;
+  margin-left: 5px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
 
 button:hover {
   background-color: #347d3c;
